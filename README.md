@@ -1,6 +1,6 @@
 # DotGitIgnore File
 
-This repo has my go to `.gitignore` file for general purpose.
+> This repo has my go to `.gitignore` file for general purpose.
 
 ## Usage
 
