@@ -59,4 +59,5 @@ wpcs/
 # CLIs #
 ######################
 dist
+opensrc
 
